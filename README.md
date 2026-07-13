@@ -74,14 +74,12 @@ Provides:
 
 ---
 
-##  Project Structure
+## Project Files
 
-```text
-Portfolio/
-│── index.html
-│── style.css
-└── Frontpage.jpg
-```
+- `index.html`
+- `style.css`
+- `Frontpage.jpg`
+- `homepage.png`
 
 ---
 

@@ -42,7 +42,7 @@ The website was created to practice front-end web development fundamentals and w
 
 ##  Website Sections
 
-###  Home
+###  Homepage
 
 Displays:
 - Full Name

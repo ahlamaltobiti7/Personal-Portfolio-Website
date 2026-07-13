@@ -1,0 +1,110 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+body{
+    background:#f5f5f5;
+}
+
+.container{
+    width:750px;
+    max-width:90%;
+    margin:40px auto;
+    background:#ffffff;
+    border-radius:20px;
+    padding:40px;
+    box-shadow:0 8px 20px rgba(0,0,0,0.12);
+}
+
+.profile{
+    width:180px;
+    height:180px;
+    border-radius:50%;
+    display:block;
+    margin:auto;
+    object-fit:cover;
+    border:5px solid #f7c8d8;
+}
+
+h1{
+    text-align:center;
+    color:#555555;
+    margin-top:20px;
+}
+
+h3{
+    text-align:center;
+    color:#777777;
+    margin-top:10px;
+}
+
+.university{
+    text-align:center;
+    color:#888888;
+    margin-top:10px;
+    font-size:18px;
+}
+
+.about,
+.skills,
+.contact{
+    margin-top:35px;
+}
+
+.about h2,
+.skills h2,
+.contact h2{
+    color:#666666;
+    border-bottom:3px solid #f7c8d8;
+    display:inline-block;
+    padding-bottom:5px;
+    margin-bottom:15px;
+}
+
+.about p{
+    color:#555555;
+    line-height:1.8;
+    text-align:justify;
+}
+
+.skills ul{
+    margin-left:20px;
+}
+
+.skills li{
+    margin:10px 0;
+    color:#555555;
+}
+
+.contact p{
+    margin:12px 0;
+    color:#555555;
+}
+
+.contact a{
+    color:#d67a97;
+    text-decoration:none;
+    font-weight:bold;
+}
+
+.contact a:hover{
+    color:#b85f7e;
+    text-decoration:underline;
+}
+
+@media(max-width:768px){
+
+.container{
+    width:95%;
+    padding:25px;
+}
+
+.profile{
+    width:140px;
+    height:140px;
+}
+
+}

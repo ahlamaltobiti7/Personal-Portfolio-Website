@@ -103,7 +103,7 @@ This project was completed through the following steps:
 
 Below is a preview of the website's homepage. You can explore the fully responsive design and all live features by visiting the link below:
 
-![Website Preview](./homepage.jpg)
+![Website Preview](./homepage.png)
 
 🔗 **[Visit the Live Website Here](https://ahlam-abdulgani-althobiti.site.je/)**
 

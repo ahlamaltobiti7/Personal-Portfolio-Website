@@ -99,23 +99,13 @@ This project was completed through the following steps:
 
 ---
 
-##  Screenshots
+##  Project Preview & Live Website
 
-### Home Page
+Below is a preview of the website's homepage. You can explore the fully responsive design and all live features by visiting the link below:
 
-*(Insert a screenshot of the home page here.)*
+![Website Preview](./homepage.jpg)
 
-### About Me
-
-*(Insert a screenshot of the About Me section here.)*
-
-### Skills
-
-*(Insert a screenshot of the Skills section here.)*
-
-### Contact
-
-*(Insert a screenshot of the Contact section here.)*
+🔗 **[Visit the Live Website Here](https://ahlam-abdulgani-althobiti.site.je/)**
 
 ---
 
@@ -132,20 +122,3 @@ Through this project, I gained valuable experience in:
 - Creating a professional online portfolio to showcase my skills and personal information.
 
 ---
-
-##  Live Website
-
-You can visit the live website here:
-
-**Portfolio Website**
-
-🔗 *https://ahlam-abdulgani-althobiti.site.je/*
-
----
-
-
----
-
-## 📄 License
-
-This project was created for educational purposes.
